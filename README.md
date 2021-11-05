@@ -1,6 +1,5 @@
 ## Exploratory-Data-Analysis-on-Suicides-in-India<br>
-The data set consists of information of people committed suicides in India between 2001 to 2012.<br>
-<center>![enter image description here](https://github.com/Tk8191/Exploratory-Data-Analysis-on-Suicides-in-India/blob/main/img1.jpg?raw=true)<br></center>
+The data set consists of information of people committed suicides in India between 2001 to 2012.![enter image description here](https://github.com/Tk8191/Exploratory-Data-Analysis-on-Suicides-in-India/blob/main/img1.jpg?raw=true)<br>
  **Dataset:**
 The dataset  contains **12769** rows and **16** columns.
 
